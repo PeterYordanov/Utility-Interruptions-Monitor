@@ -1,4 +1,10 @@
 {
     "energo_pro_url": "https://www.energo-pro.bg/bg/planirani-prekysvanija",
-    "comm_token": ""
+    "vik_vt_url": "https://www.vik-vt.com/?mod=news",
+    "email_sender": "",
+    "email_token": "",
+    "email_recipients": [
+        "<>@gmail.com",
+        "<>@gmail.com"
+    ]
 }
